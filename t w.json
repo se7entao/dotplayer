@@ -1,0 +1,819 @@
+{
+	"uuid":"64350b50-a810-4901-b86b-7a5106bdef2c",
+	"title": "台湾多台",
+
+	"channels": [
+
+		{
+			"name":"購物1台",
+			"url": "http://mplayer.xyz/live/gt/235-0"
+		},
+{
+			"name":"購物2台",
+			"url": "http://mplayer.xyz/live/gt/235-1"
+		},
+{
+			"name":"三立新聞HD",
+			"url": "http://mplayer.xyz/live/gt/235-2"
+		},
+{
+			"name":"博斯運動一台",
+			"url": "http://mplayer.xyz/live/gt/235-3"
+		},
+{
+			"name":"非凡新聞HD",
+			"url": "http://mplayer.xyz/live/gt/235-4"
+		},
+{
+			"name":"東森亞洲衛視台",
+			"url": "http://mplayer.xyz/live/gt/235-5"
+		},
+{
+			"name":"臺灣電視台",
+			"url": "http://mplayer.xyz/live/gt/235-6"
+		},
+{
+			"name":"亞洲院線電影台",
+			"url": "http://mplayer.xyz/live/gt/235-7"
+		},
+{
+			"name":"中天綜合台",
+			"url": "http://mplayer.xyz/live/gt/235-8"
+		},
+{
+			"name":"Love Nature",
+			"url": "http://mplayer.xyz/live/gt/235-9"
+		},
+{
+			"name":"中視新聞台",
+			"url": "http://mplayer.xyz/live/gt/235-10"
+		},
+{
+			"name":"i-Fun動漫台2",
+			"url": "http://mplayer.xyz/live/gt/235-11"
+		},
+{
+			"name":"采昌影劇台",
+			"url": "http://mplayer.xyz/live/gt/235-12"
+		},
+{
+			"name":"國際電影台",
+			"url": "http://mplayer.xyz/live/gt/235-13"
+		},
+{
+			"name":"時代影像台",
+			"url": "http://mplayer.xyz/live/gt/235-14"
+		},
+{
+			"name":"西洋強檔電影台",
+			"url": "http://mplayer.xyz/live/gt/235-15"
+		},
+{
+			"name":"ELEVEN體育二台",
+			"url": "http://mplayer.xyz/live/gt/235-16"
+		},
+{
+			"name":"全猿主場",
+			"url": "http://mplayer.xyz/live/gt/235-17"
+		},
+{
+			"name":"東森綜藝台",
+			"url": "http://mplayer.xyz/live/gt/235-18"
+		},
+{
+			"name":"ITV Choice",
+			"url": "http://mplayer.xyz/live/gt/235-19"
+		},
+{
+			"name":"東森新聞台",
+			"url": "http://mplayer.xyz/live/gt/236-0"
+		},
+{
+			"name":"TVBS-N",
+			"url": "http://mplayer.xyz/live/gt/236-1"
+		},
+{
+			"name":"民視新聞台",
+			"url": "http://mplayer.xyz/live/gt/236-2"
+		},
+{
+			"name":"台視新聞台",
+			"url": "http://mplayer.xyz/live/gt/236-3"
+		},
+{
+			"name":"東森亞洲新聞台",
+			"url": "http://mplayer.xyz/live/gt/236-4"
+		},
+{
+			"name":"華視新聞資訊台",
+			"url": "http://mplayer.xyz/live/gt/236-5"
+		},
+{
+			"name":"中天新聞台",
+			"url": "http://mplayer.xyz/live/gt/236-6"
+		},
+{
+			"name":"三立新聞HD",
+			"url": "http://mplayer.xyz/live/gt/236-7"
+		},
+{
+			"name":"非凡新聞HD",
+			"url": "http://mplayer.xyz/live/gt/236-8"
+		},
+{
+			"name":"中視新聞台",
+			"url": "http://mplayer.xyz/live/gt/236-9"
+		},
+{
+			"name":"CNN國際新聞台",
+			"url": "http://mplayer.xyz/live/gt/236-10"
+		},
+{
+			"name":"BBC國際新聞台(HD)",
+			"url": "http://mplayer.xyz/live/gt/236-11"
+		},
+{
+			"name":"CNN頭條新聞台",
+			"url": "http://mplayer.xyz/live/gt/236-12"
+		},
+{
+			"name":"CNBC",
+			"url": "http://mplayer.xyz/live/gt/236-13"
+		},
+{
+			"name":"CNA亞洲新聞台",
+			"url": "http://mplayer.xyz/live/gt/236-14"
+		},
+{
+			"name":"美國之音-VOA",
+			"url": "http://mplayer.xyz/live/gt/236-15"
+		},
+{
+			"name":"半島電視台",
+			"url": "http://mplayer.xyz/live/gt/236-16"
+		},
+{
+			"name":"德國之聲電視台",
+			"url": "http://mplayer.xyz/live/gt/236-17"
+		},
+{
+			"name":"東森財經新聞台",
+			"url": "http://mplayer.xyz/live/gt/236-18"
+		},
+{
+			"name":"非凡商業台",
+			"url": "http://mplayer.xyz/live/gt/236-19"
+		},
+{
+			"name":"三立iNEWS",
+			"url": "http://mplayer.xyz/live/gt/236-20"
+		},
+{
+			"name":"SBN全球財經台",
+			"url": "http://mplayer.xyz/live/gt/236-21"
+		},
+{
+			"name":"台視財經台",
+			"url": "http://mplayer.xyz/live/gt/236-22"
+		},
+{
+			"name":"中華財經台",
+			"url": "http://mplayer.xyz/live/gt/236-23"
+		},
+{
+			"name":"龍華戲劇台",
+			"url": "http://mplayer.xyz/live/gt/237-0"
+		},
+{
+			"name":"亞洲院線電影台",
+			"url": "http://mplayer.xyz/live/gt/237-1"
+		},
+{
+			"name":"Warner TV HD",
+			"url": "http://mplayer.xyz/live/gt/237-2"
+		},
+{
+			"name":"民視戲劇台",
+			"url": "http://mplayer.xyz/live/gt/237-3"
+		},
+{
+			"name":"時代影像台",
+			"url": "http://mplayer.xyz/live/gt/237-4"
+		},
+{
+			"name":"暗光鳥電影院",
+			"url": "http://mplayer.xyz/live/gt/237-5"
+		},
+{
+			"name":"ci",
+			"url": "http://mplayer.xyz/live/gt/237-6"
+		},
+{
+			"name":"西洋強檔電影台",
+			"url": "http://mplayer.xyz/live/gt/237-7"
+		},
+{
+			"name":"优電影三台",
+			"url": "http://mplayer.xyz/live/gt/237-8"
+		},
+{
+			"name":"龍華日韓台",
+			"url": "http://mplayer.xyz/live/gt/237-9"
+		},
+{
+			"name":"亞洲人氣戲劇台",
+			"url": "http://mplayer.xyz/live/gt/237-10"
+		},
+{
+			"name":"國際電影台",
+			"url": "http://mplayer.xyz/live/gt/237-11"
+		},
+{
+			"name":"熱播華語戲劇台",
+			"url": "http://mplayer.xyz/live/gt/237-12"
+		},
+{
+			"name":"靖天戲劇台",
+			"url": "http://mplayer.xyz/live/gt/237-13"
+		},
+{
+			"name":"穿梭電影台",
+			"url": "http://mplayer.xyz/live/gt/237-14"
+		},
+{
+			"name":"History",
+			"url": "http://mplayer.xyz/live/gt/237-15"
+		},
+{
+			"name":"HITS頻道",
+			"url": "http://mplayer.xyz/live/gt/237-16"
+		},
+{
+			"name":"靖洋戲劇台",
+			"url": "http://mplayer.xyz/live/gt/237-17"
+		},
+{
+			"name":"公視戲劇",
+			"url": "http://mplayer.xyz/live/gt/237-18"
+		},
+{
+			"name":"天映經典台",
+			"url": "http://mplayer.xyz/live/gt/237-19"
+		},
+{
+			"name":"龍華偶像台",
+			"url": "http://mplayer.xyz/live/gt/237-20"
+		},
+{
+			"name":"龍華電影台",
+			"url": "http://mplayer.xyz/live/gt/237-21"
+		},
+{
+			"name":"AMC",
+			"url": "http://mplayer.xyz/live/gt/237-22"
+		},
+{
+			"name":"优電影二台",
+			"url": "http://mplayer.xyz/live/gt/237-23"
+		},
+{
+			"name":"fyi",
+			"url": "http://mplayer.xyz/live/gt/237-24"
+		},
+{
+			"name":"优電影一台",
+			"url": "http://mplayer.xyz/live/gt/237-25"
+		},
+{
+			"name":"影迷數位電影台",
+			"url": "http://mplayer.xyz/live/gt/237-26"
+		},
+{
+			"name":"采昌影劇台",
+			"url": "http://mplayer.xyz/live/gt/237-27"
+		},
+{
+			"name":"靖天映畫台",
+			"url": "http://mplayer.xyz/live/gt/237-28"
+		},
+{
+			"name":"H2",
+			"url": "http://mplayer.xyz/live/gt/237-29"
+		},
+{
+			"name":"靖天電影台",
+			"url": "http://mplayer.xyz/live/gt/237-30"
+		},
+{
+			"name":"CNEX DOC CHANNEL",
+			"url": "http://mplayer.xyz/live/gt/237-31"
+		},
+{
+			"name":"CinemaWorld",
+			"url": "http://mplayer.xyz/live/gt/237-32"
+		},
+{
+			"name":"金光布袋戲",
+			"url": "http://mplayer.xyz/live/gt/237-33"
+		},
+{
+			"name":"東森亞洲幼幼台",
+			"url": "http://mplayer.xyz/live/gt/238-0"
+		},
+{
+			"name":"i-Fun動漫台3",
+			"url": "http://mplayer.xyz/live/gt/238-1"
+		},
+{
+			"name":"尼克兒童頻道",
+			"url": "http://mplayer.xyz/live/gt/238-2"
+		},
+{
+			"name":"i-Fun動漫台",
+			"url": "http://mplayer.xyz/live/gt/238-3"
+		},
+{
+			"name":"Boomerang卡通台",
+			"url": "http://mplayer.xyz/live/gt/238-4"
+		},
+{
+			"name":"靖洋卡通台Nice Bingo",
+			"url": "http://mplayer.xyz/live/gt/238-5"
+		},
+{
+			"name":"i-Fun動漫台2",
+			"url": "http://mplayer.xyz/live/gt/238-6"
+		},
+{
+			"name":"ANIMAX HD",
+			"url": "http://mplayer.xyz/live/gt/238-7"
+		},
+{
+			"name":"CN卡通頻道",
+			"url": "http://mplayer.xyz/live/gt/238-8"
+		},
+{
+			"name":"寶寶世界頻道",
+			"url": "http://mplayer.xyz/live/gt/238-9"
+		},
+{
+			"name":"NICK Jr",
+			"url": "http://mplayer.xyz/live/gt/238-10"
+		},
+{
+			"name":"靖天卡通台",
+			"url": "http://mplayer.xyz/live/gt/238-11"
+		},
+{
+			"name":"龍華卡通台",
+			"url": "http://mplayer.xyz/live/gt/238-12"
+		},
+{
+			"name":"豬哥亮歌廳秀",
+			"url": "http://mplayer.xyz/live/gt/239-0"
+		},
+{
+			"name":"東森綜藝台",
+			"url": "http://mplayer.xyz/live/gt/239-1"
+		},
+{
+			"name":"TVBS歡樂台",
+			"url": "http://mplayer.xyz/live/gt/239-2"
+		},
+{
+			"name":"非凡美食",
+			"url": "http://mplayer.xyz/live/gt/239-3"
+		},
+{
+			"name":"韓國娛樂台KMTV",
+			"url": "http://mplayer.xyz/live/gt/239-4"
+		},
+{
+			"name":"中天綜合台",
+			"url": "http://mplayer.xyz/live/gt/239-5"
+		},
+{
+			"name":"東森生活台",
+			"url": "http://mplayer.xyz/live/gt/239-6"
+		},
+{
+			"name":"民視綜藝台",
+			"url": "http://mplayer.xyz/live/gt/239-7"
+		},
+{
+			"name":"八大綜藝台",
+			"url": "http://mplayer.xyz/live/gt/239-8"
+		},
+{
+			"name":"Travel Channel",
+			"url": "http://mplayer.xyz/live/gt/239-9"
+		},
+{
+			"name":"亞洲旅遊台",
+			"url": "http://mplayer.xyz/live/gt/239-10"
+		},
+{
+			"name":"Lifetime",
+			"url": "http://mplayer.xyz/live/gt/239-11"
+		},
+{
+			"name":"Comedy Central",
+			"url": "http://mplayer.xyz/live/gt/239-12"
+		},
+{
+			"name":"FUN影音綜合台",
+			"url": "http://mplayer.xyz/live/gt/239-13"
+		},
+{
+			"name":"中視經典台",
+			"url": "http://mplayer.xyz/live/gt/239-14"
+		},
+{
+			"name":"Fashion one時尚娛樂台(HD)",
+			"url": "http://mplayer.xyz/live/gt/239-15"
+		},
+{
+			"name":"愛爾達娛樂台",
+			"url": "http://mplayer.xyz/live/gt/239-16"
+		},
+{
+			"name":"隨身娛樂綜藝台",
+			"url": "http://mplayer.xyz/live/gt/239-17"
+		},
+{
+			"name":"民視旅遊台",
+			"url": "http://mplayer.xyz/live/gt/239-18"
+		},
+{
+			"name":"Outdoor Channel",
+			"url": "http://mplayer.xyz/live/gt/239-19"
+		},
+{
+			"name":"靖天日本台",
+			"url": "http://mplayer.xyz/live/gt/239-20"
+		},
+{
+			"name":"麥卡貝網路電視HD",
+			"url": "http://mplayer.xyz/live/gt/239-21"
+		},
+{
+			"name":"Trace Urban",
+			"url": "http://mplayer.xyz/live/gt/239-22"
+		},
+{
+			"name":"Nice TV 靖天歡樂台",
+			"url": "http://mplayer.xyz/live/gt/239-23"
+		},
+{
+			"name":"靖天育樂台",
+			"url": "http://mplayer.xyz/live/gt/239-24"
+		},
+{
+			"name":"民視無線台",
+			"url": "http://mplayer.xyz/live/gt/240-0"
+		},
+{
+			"name":"TVBS",
+			"url": "http://mplayer.xyz/live/gt/240-1"
+		},
+{
+			"name":"東森亞洲衛視台",
+			"url": "http://mplayer.xyz/live/gt/240-2"
+		},
+{
+			"name":"華視無線台",
+			"url": "http://mplayer.xyz/live/gt/240-3"
+		},
+{
+			"name":"臺灣電視台",
+			"url": "http://mplayer.xyz/live/gt/240-4"
+		},
+{
+			"name":"Discovery DMAX頻道HD",
+			"url": "http://mplayer.xyz/live/gt/240-5"
+		},
+{
+			"name":"Discovery科學頻道HD",
+			"url": "http://mplayer.xyz/live/gt/240-6"
+		},
+{
+			"name":"Discovery 夏娃台EVE HD",
+			"url": "http://mplayer.xyz/live/gt/240-7"
+		},
+{
+			"name":"中視無線台(HD)",
+			"url": "http://mplayer.xyz/live/gt/240-8"
+		},
+{
+			"name":"空中英語教學台",
+			"url": "http://mplayer.xyz/live/gt/240-9"
+		},
+{
+			"name":"唯心電視台",
+			"url": "http://mplayer.xyz/live/gt/240-10"
+		},
+{
+			"name":"華藏電視台",
+			"url": "http://mplayer.xyz/live/gt/240-11"
+		},
+{
+			"name":"大愛電視台",
+			"url": "http://mplayer.xyz/live/gt/240-12"
+		},
+{
+			"name":"大愛二台",
+			"url": "http://mplayer.xyz/live/gt/240-13"
+		},
+{
+			"name":"GOOD TV一台",
+			"url": "http://mplayer.xyz/live/gt/240-14"
+		},
+{
+			"name":"GOOD TV二台",
+			"url": "http://mplayer.xyz/live/gt/240-15"
+		},
+{
+			"name":"Love Nature",
+			"url": "http://mplayer.xyz/live/gt/240-16"
+		},
+{
+			"name":"Davinci 達文西教學台(HD)",
+			"url": "http://mplayer.xyz/live/gt/240-17"
+		},
+{
+			"name":"E Entertainment",
+			"url": "http://mplayer.xyz/live/gt/240-18"
+		},
+{
+			"name":"台視綜合台",
+			"url": "http://mplayer.xyz/live/gt/240-19"
+		},
+{
+			"name":"新唐人亞太台",
+			"url": "http://mplayer.xyz/live/gt/240-20"
+		},
+{
+			"name":"民視第一台",
+			"url": "http://mplayer.xyz/live/gt/240-21"
+		},
+{
+			"name":"民視台灣台",
+			"url": "http://mplayer.xyz/live/gt/240-22"
+		},
+{
+			"name":"中視菁采台",
+			"url": "http://mplayer.xyz/live/gt/240-23"
+		},
+{
+			"name":"人間衛視",
+			"url": "http://mplayer.xyz/live/gt/240-24"
+		},
+{
+			"name":"台藝2台",
+			"url": "http://mplayer.xyz/live/gt/240-25"
+		},
+{
+			"name":"公視二台",
+			"url": "http://mplayer.xyz/live/gt/240-26"
+		},
+{
+			"name":"客家電視台",
+			"url": "http://mplayer.xyz/live/gt/240-27"
+		},
+{
+			"name":"ELTV生活英語台",
+			"url": "http://mplayer.xyz/live/gt/240-28"
+		},
+{
+			"name":"原住民族電視台",
+			"url": "http://mplayer.xyz/live/gt/240-29"
+		},
+{
+			"name":"靖天綜合台",
+			"url": "http://mplayer.xyz/live/gt/240-30"
+		},
+{
+			"name":"KLT-靖天國際台",
+			"url": "http://mplayer.xyz/live/gt/240-31"
+		},
+{
+			"name":"風潮綜合台",
+			"url": "http://mplayer.xyz/live/gt/240-32"
+		},
+{
+			"name":"TVBS精采台",
+			"url": "http://mplayer.xyz/live/gt/240-33"
+		},
+{
+			"name":"魅力綜合台",
+			"url": "http://mplayer.xyz/live/gt/240-34"
+		},
+{
+			"name":"Smart知識台",
+			"url": "http://mplayer.xyz/live/gt/240-35"
+		},
+{
+			"name":"ITV Choice",
+			"url": "http://mplayer.xyz/live/gt/240-36"
+		},
+{
+			"name":"靖天資訊台",
+			"url": "http://mplayer.xyz/live/gt/240-37"
+		},
+{
+			"name":"影迷數位紀實台",
+			"url": "http://mplayer.xyz/live/gt/240-38"
+		},
+{
+			"name":"潮流時尚台",
+			"url": "http://mplayer.xyz/live/gt/240-39"
+		},
+{
+			"name":"購物1台",
+			"url": "http://mplayer.xyz/live/gt/240-40"
+		},
+{
+			"name":"購物2台",
+			"url": "http://mplayer.xyz/live/gt/240-41"
+		},
+{
+			"name":"國會頻道1台",
+			"url": "http://mplayer.xyz/live/gt/240-42"
+		},
+{
+			"name":"國會頻道2台",
+			"url": "http://mplayer.xyz/live/gt/240-43"
+		},
+{
+			"name":"Eleven Plus",
+			"url": "http://mplayer.xyz/live/gt/241-0"
+		},
+{
+			"name":"ELEVEN體育二台",
+			"url": "http://mplayer.xyz/live/gt/241-1"
+		},
+{
+			"name":"SBL超級籃球聯賽",
+			"url": "http://mplayer.xyz/live/gt/241-2"
+		},
+{
+			"name":"博斯運動一台",
+			"url": "http://mplayer.xyz/live/gt/241-3"
+		},
+{
+			"name":"博斯無限台",
+			"url": "http://mplayer.xyz/live/gt/241-4"
+		},
+{
+			"name":"博斯網球台",
+			"url": "http://mplayer.xyz/live/gt/241-5"
+		},
+{
+			"name":"博斯高球台",
+			"url": "http://mplayer.xyz/live/gt/241-6"
+		},
+{
+			"name":"博斯高球二台",
+			"url": "http://mplayer.xyz/live/gt/241-7"
+		},
+{
+			"name":"博斯運動二台",
+			"url": "http://mplayer.xyz/live/gt/241-8"
+		},
+{
+			"name":"博斯魅力台",
+			"url": "http://mplayer.xyz/live/gt/241-9"
+		},
+{
+			"name":"全猿主場",
+			"url": "http://mplayer.xyz/live/gt/241-10"
+		},
+{
+			"name":"爪TV",
+			"url": "http://mplayer.xyz/live/gt/241-11"
+		},
+{
+			"name":"麥卡貝運動頻道",
+			"url": "http://mplayer.xyz/live/gt/241-12"
+		},
+{
+			"name":"麥卡貝運動2台",
+			"url": "http://mplayer.xyz/live/gt/241-13"
+		},
+{
+			"name":"SETANTA",
+			"url": "http://mplayer.xyz/live/gt/241-14"
+		},
+{
+			"name":"Trace Sport Stars",
+			"url": "http://mplayer.xyz/live/gt/241-15"
+		},
+{
+			"name":"Eurosport",
+			"url": "http://mplayer.xyz/live/gt/241-16"
+		},
+{
+			"name":"智林體育台",
+			"url": "http://mplayer.xyz/live/gt/241-17"
+		},
+{
+			"name":"時尚運動X",
+			"url": "http://mplayer.xyz/live/gt/241-18"
+		},
+{
+			"name":"MTV Live HD",
+			"url": "http://mplayer.xyz/live/gt/242-0"
+		},
+{
+			"name":"發現音樂MV",
+			"url": "http://mplayer.xyz/live/gt/242-1"
+		},
+{
+			"name":"梅迪奇藝術頻道",
+			"url": "http://mplayer.xyz/live/gt/242-2"
+		},
+{
+			"name":"FUN流行音樂台",
+			"url": "http://mplayer.xyz/live/gt/242-3"
+		},
+{
+			"name":"古典音樂台",
+			"url": "http://mplayer.xyz/live/gt/242-4"
+		},
+{
+			"name":"Mezzo Live HD",
+			"url": "http://mplayer.xyz/live/gt/242-5"
+		},
+{
+			"name":"發現台灣好音樂",
+			"url": "http://mplayer.xyz/live/gt/242-6"
+		},
+{
+			"name":"Stingray iConcerts",
+			"url": "http://mplayer.xyz/live/gt/242-7"
+		},
+{
+			"name":"華研音樂台",
+			"url": "http://mplayer.xyz/live/gt/242-8"
+		},
+{
+			"name":"非凡美食",
+			"url": "http://mplayer.xyz/live/gt/243-0"
+		},
+{
+			"name":"E Entertainment",
+			"url": "http://mplayer.xyz/live/gt/243-1"
+		},
+{
+			"name":"亞洲人氣戲劇台",
+			"url": "http://mplayer.xyz/live/gt/243-2"
+		},
+{
+			"name":"麥卡貝運動頻道",
+			"url": "http://mplayer.xyz/live/gt/243-3"
+		},
+{
+			"name":"韓國娛樂台KMTV",
+			"url": "http://mplayer.xyz/live/gt/243-4"
+		},
+{
+			"name":"ci",
+			"url": "http://mplayer.xyz/live/gt/243-5"
+		},
+{
+			"name":"台視財經台",
+			"url": "http://mplayer.xyz/live/gt/243-6"
+		},
+{
+			"name":"靖天綜合台",
+			"url": "http://mplayer.xyz/live/gt/243-7"
+		},
+{
+			"name":"采昌影劇台",
+			"url": "http://mplayer.xyz/live/gt/243-8"
+		},
+{
+			"name":"CNA亞洲新聞台",
+			"url": "http://mplayer.xyz/live/gt/243-9"
+		},
+{
+			"name":"ITV Choice",
+			"url": "http://mplayer.xyz/live/gt/243-10"
+		},
+{
+			"name":"Discovery 夏娃台EVE HD",
+			"url": "http://mplayer.xyz/live/gt/244-0"
+		},
+{
+			"name":"Discovery科學頻道HD",
+			"url": "http://mplayer.xyz/live/gt/244-1"
+		},
+{
+			"name":"Discovery DMAX頻道HD",
+			"url": "http://mplayer.xyz/live/gt/244-2"
+		}
+		
+
+	]
+
+}
